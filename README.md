@@ -1,6 +1,6 @@
 # Einstein GPT For Developers
 
-| ![Einstein](https://github.com/forcedotcom/Einstein-GPT-for-Developers/blob/main/images/einstein-thumb.jpeg)| This repository is for Einstein GPT for Developers Pilot Program participants only. This repo will be the primary means of *direct* communication between program participants and the team behind the Einstein GPT for Developers Pilot! We'll be monitoring both the Issues and Discussions tabs for questions, feedback requests & more. Navigate to the Wiki to get started. Happy Pilot-ing! |
+| ![Einstein](https://github.com/forcedotcom/Einstein-GPT-for-Developers/blob/main/images/einstein-thumb.jpeg)| This repository is for Einstein GPT for Developers Pilot Program participants only. This repo will be the primary means of *direct* communication between program participants and the team behind the Einstein GPT for Developers Pilot! We'll be monitoring both the Issues and Discussions tabs for questions, feedback requests & more. Head over to the [User Guide](https://github.com/forcedotcom/Einstein-GPT-for-Developers/wiki) to get started. Happy Pilot-ing! |
 |---|---|
 
 
