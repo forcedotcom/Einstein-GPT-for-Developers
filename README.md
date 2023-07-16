@@ -8,7 +8,7 @@
 
 Einstein GPT for Developers is an AI powered developer tool that is available as an easy-to-install VS Code extension built using CodeGen, Salesforce’s secure, custom AI model. Our goal is to improve developer productivity through AI-based code generation. At this point of time, the Einstein GPT for Devs extension can:
 
-- Generate code from natural language instructions within an existing Apex class, trigger, or anonymous Apex file. Simply enter in a prompt describing what you'd like to build and see Apex code generated within your edit.
+- Generate code from natural language instructions within an existing Apex class, trigger, or anonymous Apex file. Simply enter in a prompt describing what you'd like to build and see Apex code generated within your editor.
 
 <br>
 
