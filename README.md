@@ -18,7 +18,7 @@ At this time, the tool does not:
   
 ### Setup and Installation
 
-**See the [Einstein GPT for Developers User Guide](https://github.com/forcedotcom/Einstein-GPT-for-Developers/wiki) to get started.** Check out the video below for an overview of the product and getting started process! 
+**See the [Einstein GPT for Developers User Guide](https://github.com/forcedotcom/Einstein-GPT-for-Developers/wiki) to get started.** Check out the video below for an overview of the product and getting started (set up & installation) process! 
 
 <br>
 
