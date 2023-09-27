@@ -10,9 +10,14 @@ We also encourage you to give us feedback on the _generated code_ using 👍, �
 
 ## Overview
 
-Use Einstein for Developers, an AI-powered developer tool, to enhance developer productivity by quickly generating code suggestions using natural language instructions. Einstein for Developers is available as an easy-to-install VS Code extension built using CodeGen, Salesforce’s secure, custom AI model. The extension is available in the VS Code and Open VSX marketplaces. Use the extension to generate boilerplate code from natural language instructions in a sidebar, so you can work with your editor and the tool side by side, without any interruptions to your workflow. You can also get code suggestions within an existing Apex class, trigger, or anonymous Apex file. Use the VS Code Command Palette to enter a prompt describing what you’d like to build and then generate code suggestions within your editor. 
+Use Einstein for Developers, an AI-powered developer tool, to enhance developer productivity by quickly generating code suggestions using natural language instructions. Einstein for Developers is available as an easy-to-install VS Code extension built using CodeGen, Salesforce’s secure, custom AI model. The extension is available in the VS Code and Open VSX marketplaces. Use the extension to generate boilerplate code from natural language instructions in a sidebar, so you can work with your editor and the tool side by side, without any interruptions to your workflow. You can also get code suggestions within an existing Apex class, trigger, or anonymous Apex file. Use the VS Code Command Palette to enter a prompt describing what you’d like to build and then generate code suggestions within your editor. Head over to the [Einstein for Developers Documentation](https://developer.salesforce.com/tools/vscode/en/einstein/einstein-overview) to learn more.
 
-Head over to the [Einstein for Developers Documentation](https://developer.salesforce.com/tools/vscode/en/einstein/einstein-overview) to get started.
+
+## Get Started
+
+Go to [Einstein for Developers Set Up Documentation](https://developer.salesforce.com/tools/vscode/en/einstein/einstein-setup) for setup instructions.
+
+![Screenshot of Einstein for Developers generating Apex based on natural language](https://github.com/forcedotcom/Einstein-GPT-for-Developers/blob/main/images/sidebartoo.png)
 
 ## Terms of Use
 
