@@ -1,0 +1,12 @@
+{
+  "productTag": "a1aEE000000dLNxYAM",
+  "productTagLabels": {
+    "area:generatedresponses": "a1aB0000000JglYIAS"
+  },
+  "issueTypeLabels": {
+    "type:bug": "BUG P3"
+  },
+  "defaultBuild": "offcore.tooling.59",
+  "hideWorkItemUrl": "true",
+  "statusWhenClosed": "CLOSED"
+}
