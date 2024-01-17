@@ -1,0 +1,17 @@
+{
+  "productTag": "a1aEE000000dLNxYAM",
+  "productTagLabels": {
+    "area:GeneratedResponses": "a1aEE000000dLNxYAM",
+    "area:Inline": "a1aEE000000e6ptYAA",
+    "area:BlockCodeGen": "a1aEE000000e6ujYAA",
+    "area:TestCaseGeneration": "a1aEE000000e7PNYAY",
+    "area:SideBarGeneration": "a1aEE000000eA2HYAU",
+    "area:PromptHistory": "a1aEE000000eA8jYAE"
+  },
+  "issueTypeLabels": {
+    "type:bug": "BUG P3"
+  },
+  "defaultBuild": "offcore.tooling.59",
+  "hideWorkItemUrl": "true",
+  "statusWhenClosed": "CLOSED"
+}
