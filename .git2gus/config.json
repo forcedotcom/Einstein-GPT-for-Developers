@@ -2,9 +2,10 @@
   "productTag": "a1aEE000000dLNxYAM",
   "productTagLabels": {
     "area:GeneratedResponses": "a1aEE000000dLNxYAM",
-    "area:inline": "a1aEE000000e6ptYAA",
+    "area:Inline": "a1aEE000000e6ptYAA",
     "area:BlockCodeGen": "a1aEE000000e6ujYAA",
     "area:TestCaseGeneration": "a1aEE000000e7PNYAY",
+    "area:SideBarGeneration": "a1aEE000000eA2HYAU",
     "area:PromptHistory": "a1aEE000000eA8jYAE"
   },
   "issueTypeLabels": {
