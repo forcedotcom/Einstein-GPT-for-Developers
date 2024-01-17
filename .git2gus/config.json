@@ -1,7 +1,11 @@
 {
   "productTag": "a1aEE000000dLNxYAM",
   "productTagLabels": {
-    "area:generatedresponses": "a1aB0000000JglYIAS"
+    "area:GeneratedResponses": "a1aEE000000dLNxYAM",
+    "area:inline": "a1aEE000000e6ptYAA",
+    "area:BlockCodeGen": "a1aEE000000e6ujYAA",
+    "area:TestCaseGeneration": "a1aEE000000e7PNYAY",
+    "area:PromptHistory": "a1aEE000000eA8jYAE"
   },
   "issueTypeLabels": {
     "type:bug": "BUG P3"
