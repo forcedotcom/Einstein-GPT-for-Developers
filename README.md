@@ -20,15 +20,15 @@ Einstein for Developers is enabled by default. You can easily disable or uninsta
 
 Use Einstein for Developers, an AI-powered developer tool, to enhance developer productivity.
 
-* Quickly generate code suggestions using natural language instructions.
+* **Quickly generate code suggestions using natural language instructions**
 
-* Use the inline code auto-completion feature to get completions for Apex, Javascript, HTML and CSS code.
+* **Use the inline code auto-completion feature to get completions for Apex, Javascript, HTML and CSS code**
 
 <div align=center>
 <img src="https://github.com/forcedotcom/Einstein-GPT-for-Developers/blob/main/images/einstein-inline-autocomplete.gif" width="750">
 </div>
   
-* Generate Apex Unit Tests to quickly get to required code coverage.
+* **Generate Apex Unit Tests to quickly get to required code coverage**
 
 <div align=center>
 <img src="https://github.com/forcedotcom/Einstein-GPT-for-Developers/blob/main/images/einstein-tcg.gif" width="750">
