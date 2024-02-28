@@ -22,6 +22,10 @@ Use Einstein for Developers, an AI-powered developer tool, to enhance developer 
 
 * **Quickly generate code suggestions using natural language instructions**
 
+<div align=center>
+<img src="https://github.com/forcedotcom/Einstein-GPT-for-Developers/blob/main/images/einstein-sidebar.gif" width="750">
+</div>
+
 * **Use the inline code auto-completion feature to get completions for Apex, Javascript, HTML and CSS code**
 
 <div align=center>
