@@ -40,7 +40,7 @@ Use Einstein for Developers, an AI-powered developer tool, to enhance developer 
 
 
 ## Feedback and Discussions
-This repo will be the primary means of direct communication between our Beta users and the team behind the Einstein for Developers! We'll be monitoring both the [Issues](https://github.com/forcedotcom/Einstein-GPT-for-Developers/issues) and [Discussions](https://github.com/forcedotcom/Einstein-GPT-for-Developers/discussions) tabs here for questions, feedback requests & more. 
+This repo will be the primary means of direct communication between our Beta users and the team behind Einstein for Developers! We'll be monitoring both the [Issues](https://github.com/forcedotcom/Einstein-GPT-for-Developers/issues) and [Discussions](https://github.com/forcedotcom/Einstein-GPT-for-Developers/discussions) tabs here for questions, feedback requests & more. 
 
 Oh! And you can also provide general feedback, request product enhancements, start discussions with other Einstein for Developers users or the product team, and share best practices, using the [Einstein for Developers Trailblazer Group](https://trailhead.salesforce.com/trailblazer-community/groups/0F94V000000oRJs?tab=discussion&sort=LAST_MODIFIED_DATE_DESC).
 
