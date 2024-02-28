@@ -8,7 +8,7 @@ Einstein for Developers (Beta) is an AI-powered developer tool that’s availabl
 
 ## Get Started
 
-Einstein for Developers is available in the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-einstein-gpt) and the [Open VSIX Registry](https://open-vsx.org/extension/salesforce/salesforcedx-einstein-gpt).
+Einstein for Developers is available in the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-einstein-gpt) and the [Open VSX Registry](https://open-vsx.org/extension/salesforce/salesforcedx-einstein-gpt).
 
 Go to [Einstein for Developers Set Up Documentation](https://developer.salesforce.com/tools/vscode/en/einstein/einstein-setup) for setup instructions.
 
