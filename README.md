@@ -26,7 +26,7 @@ Use Einstein for Developers, an AI-powered developer tool, to enhance developer 
 <img src="https://github.com/forcedotcom/Einstein-GPT-for-Developers/blob/main/images/einstein-inline-autocomplete.gif" width="750">
 </div>
   
-* **Generate unit tests for your code to help improve your code coverage**
+* **Generate Apex unit tests for your code to help improve your code coverage**
 
 <div align=center>
 <img src="https://github.com/forcedotcom/Einstein-GPT-for-Developers/blob/main/images/einstein-tcg.gif" width="750">
