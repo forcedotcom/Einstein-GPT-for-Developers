@@ -4,7 +4,9 @@
 
 </div>
 
-Einstein for Developers (Beta) is an AI-powered developer tool that’s available as an easy-to-install Visual Studio Code extension built using CodeGen, the secure, custom AI model from Salesforce. Head over to the [Einstein for Developers Documentation](https://developer.salesforce.com/tools/vscode/en/einstein/einstein-overview) to learn more.
+Einstein for Developers (Beta) is an AI-powered developer tool that’s available as an easy-to-install Visual Studio Code extension built using CodeGen, the secure, custom AI model from Salesforce. The extension does not use customer data to train our LLM. 
+
+Head over to the [Einstein for Developers Documentation](https://developer.salesforce.com/tools/vscode/en/einstein/einstein-overview) to learn more.
 
 ## Get Started
 
