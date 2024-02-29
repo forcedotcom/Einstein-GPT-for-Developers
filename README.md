@@ -32,7 +32,7 @@ Use Einstein for Developers, an AI-powered developer tool, to enhance developer 
 <img src="https://github.com/forcedotcom/Einstein-GPT-for-Developers/blob/main/images/einstein-tcg.gif" width="750">
 </div>
 
-* **Quickly generate code suggestions using natural language instructions**
+* **Quickly generate Apex code suggestions using natural language instructions**
 
 <div align=center>
 <img src="https://github.com/forcedotcom/Einstein-GPT-for-Developers/blob/main/images/einstein-sidebar.gif" width="750">
