@@ -24,7 +24,7 @@ Einstein for Developers is enabled by default. You can easily disable or uninsta
 
 Use Einstein for Developers, an AI-powered developer tool, to enhance developer productivity.
 
-* **Use the inline code auto-completion feature to get completions for Apex and LWC (JS, HTML and CSS) code**
+* **Use the inline code auto-completion feature to get completions for Apex and LWC (JS and CSS) code**
 
 <div align=center>
 <img src="https://github.com/forcedotcom/Einstein-GPT-for-Developers/blob/main/images/einstein-inline-autocomplete.gif" width="750">
