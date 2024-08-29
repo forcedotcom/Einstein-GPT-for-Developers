@@ -27,7 +27,7 @@ Use Einstein for Developers, an AI-powered developer tool, to enhance developer 
 * **Chat with Einstein Dev Assistant to ask for help with your programming tasks**
 
 <div align=center>
-<img src="https://github.com/forcedotcom/Einstein-GPT-for-Developers/raw/main/images/trailhead-einstein-icon.png" width="750">
+<img src="https://github.com/forcedotcom/Einstein-GPT-for-Developers/blob/main/images/einstein-mtc.gif" width="750">
 </div>
 
 * **Use the inline code auto-completion feature to get completions for Apex and LWC (JS, CSS and HTML) code**
