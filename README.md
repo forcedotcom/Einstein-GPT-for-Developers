@@ -29,12 +29,14 @@ Use Einstein for Developers, an AI-powered developer tool, to enhance developer 
 <div align=center>
 <img src="https://github.com/forcedotcom/Einstein-GPT-for-Developers/blob/main/images/einstein-mtc.gif" width="750">
 </div>
+<p>&nbsp;</p>
 
 * **Use the inline code auto-completion feature to get completions for Apex and LWC (JS, CSS and HTML) code**
 
 <div align=center>
 <img src="https://github.com/forcedotcom/Einstein-GPT-for-Developers/blob/main/images/einstein-inline-autocomplete.gif" width="750">
 </div>
+<p>&nbsp;</p>
   
 * **Generate Apex unit tests for your code to help improve your code coverage**
 
