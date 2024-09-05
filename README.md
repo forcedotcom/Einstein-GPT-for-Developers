@@ -4,7 +4,7 @@
 
 </div>
 
-Einstein for Developers is an AI-powered developer tool that’s available as an easy-to-install Visual Studio Code extension built using CodeGen and XGen, the secure, custom AI models from Salesforce. The extension doesn’t use customer data to train our LLM. 
+Einstein for Developers is an AI-powered developer tool that’s available as an easy-to-install Visual Studio Code extension built using `CodeGen` and `xGen-Code`, the secure, custom AI models from Salesforce. The extension doesn’t use customer data to train our LLM. 
 
 Head over to the [Einstein for Developers Documentation](https://developer.salesforce.com/tools/vscode/en/einstein/einstein-overview) to learn more.
 
