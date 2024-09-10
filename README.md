@@ -1,10 +1,10 @@
 <div align=center>
 
-# <img src="https://github.com/forcedotcom/Einstein-GPT-for-Developers/blob/main/images/einstein-thumb.jpeg" width="50"> Einstein for Developers (Beta)
+# <img src="https://github.com/forcedotcom/Einstein-GPT-for-Developers/blob/main/images/einstein-thumb.jpeg" width="50"> Einstein for Developers
 
 </div>
 
-Einstein for Developers (Beta) is an AI-powered developer tool that’s available as an easy-to-install Visual Studio Code extension built using CodeGen, the secure, custom AI model from Salesforce. The extension does not use customer data to train our LLM. 
+Einstein for Developers is an AI-powered developer tool that’s available as an easy-to-install Visual Studio Code extension built using `CodeGen` and `xGen-Code`, the secure, custom AI models from Salesforce. The extension doesn’t use customer data to train our LLM. 
 
 Head over to the [Einstein for Developers Documentation](https://developer.salesforce.com/tools/vscode/en/einstein/einstein-overview) to learn more.
 
@@ -24,7 +24,7 @@ Einstein for Developers is enabled by default. You can easily disable or uninsta
 
 Use Einstein for Developers, an AI-powered developer tool, to enhance developer productivity.
 
-* **Chat with Einstein Dev Assistant to ask for help with your programming tasks**
+* **Chat with Dev Assistant to ask for help with your programming tasks**
 
 <div align=center>
 <img src="https://github.com/forcedotcom/Einstein-GPT-for-Developers/blob/main/images/einstein-mtc.gif" width="750">
@@ -46,16 +46,11 @@ Use Einstein for Developers, an AI-powered developer tool, to enhance developer 
 
 
 ## Feedback and Discussions
-This repo will be the primary means of direct communication between our Beta users and the team behind Einstein for Developers! We'll be monitoring both the [Issues](https://github.com/forcedotcom/Einstein-GPT-for-Developers/issues) and [Discussions](https://github.com/forcedotcom/Einstein-GPT-for-Developers/discussions) tabs here for questions, feedback requests & more. 
+This repo will be the primary means of direct communication between our users and the team behind Einstein for Developers! We’ll be checking both the [Issues](https://github.com/forcedotcom/Einstein-GPT-for-Developers/issues) and [Discussions](https://github.com/forcedotcom/Einstein-GPT-for-Developers/discussions) tabs here for questions, feedback requests & more. 
 
 Oh! And you can also provide general feedback, request product enhancements, start discussions with other Einstein for Developers users or the product team, and share best practices, using the [Einstein for Developers Trailblazer Group](https://trailhead.salesforce.com/trailblazer-community/groups/0F94V000000oRJs?tab=discussion&sort=LAST_MODIFIED_DATE_DESC).
 
 
-
-
-
-
-
 ## Terms of Use
 
-Please read these [Additional Terms of Use](https://developer.salesforce.com/tools/vscode/en/einstein/einstein-termsofuse) before signing up to use Einstein for Developers.
+Read these [Additional Terms of Use](https://developer.salesforce.com/tools/vscode/en/einstein/einstein-termsofuse) before signing up to use Einstein for Developers.
