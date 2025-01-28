@@ -1,6 +1,6 @@
 <div align=center>
 
-# <img src="https://github.com/forcedotcom/Einstein-GPT-for-Developers/blob/main/images/einstein-thumb.jpeg" width="50"> Einstein for Developers
+# Agentforce for Developers
 
 </div>
 
