@@ -48,7 +48,7 @@ Use Agentforce for Developers, an AI-powered developer tool, to enhance develope
 <img src="https://github.com/forcedotcom/Einstein-GPT-for-Developers/blob/main/images/lwc-tcg.gif" width="750">
 </div>
 
-* **Refactor your Lightning web component for improved style and accessibility**
+* **Refactor your Lightning web component for improved style and help with ToDo completions**
 
 ## Feedback and Discussions
 This repo will be the primary means of direct communication between our users and the team behind Agentforce for Developers! We’ll be checking both the [Issues](https://github.com/forcedotcom/Einstein-GPT-for-Developers/issues) and [Discussions](https://github.com/forcedotcom/Einstein-GPT-for-Developers/discussions) tabs here for questions, feedback requests & more. 
