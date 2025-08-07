@@ -31,42 +31,10 @@ body:
           label: Additional context
           description: Add any other context about the problem here, such as screenshots or related issues.
     - type: input
-      id: a4d-version
+      id: sf-telemetry-id
       attributes:
-          label: A4D Version
-          description: What version of Agentforce for Developers are you using? (You can find this at the bottom of the Settings view)
-          placeholder: "e.g., 1.2.3"
-      validations:
-          required: true
-    - type: input
-      id: sf-extension-version
-      attributes:
-          label: Salesforce VSCode Extension Version
-          description: What version of the Salesforce VSCode Extension are you using?
-          placeholder: "e.g., 1.2.3"
-      validations:
-          required: true
-    - type: input
-      id: vscode-version
-      attributes:
-          label: VSCode Version
-          description: What version of VSCode are you using?
-          placeholder: "e.g., 1.2.3"
-      validations:
-          required: true
-    - type: input
-      id: operating-system
-      attributes:
-          label: Operating System
-          description: What operating system are you using?
-          placeholder: "e.g., Windows 11, macOS Sonoma, Ubuntu 22.04"
-      validations:
-          required: true
-    - type: textarea
-      id: system-info
-      attributes:
-          label: System Info
-          description: What system information is relevant to the issue?
-          placeholder: "e.g., CPU: Intel Core i7-11700K, GPU: NVIDIA GeForce RTX 3070, RAM: 32GB DDR4"
+          label: Salesforce Telemetry ID
+          description: What is your Salesforce Telemetry ID? Acquire it by running `sf telemetry` in your terminal.
+          placeholder: "Salesforce CLI ID is 6a3b46564c9e3fc87ae614f61776a467be868a2e"
       validations:
           required: true
