@@ -1,0 +1,72 @@
+name: Bug Report
+description: File a bug report
+labels: []
+body:
+    - type: markdown
+      attributes:
+          value: |
+              **Notice:** While GitHub is the preferred channel for reporting issues/feedback, this is not a mechanism for receiving support under any agreement or SLA. If you require immediate assistance, please use official support channels.
+    - type: textarea
+      id: what-happened
+      attributes:
+          label: What happened?
+          description: Also tell us, what did you expect to happen?
+          placeholder: Tell us what you see!
+      validations:
+          required: true
+    - type: textarea
+      id: steps
+      attributes:
+          label: Steps to reproduce
+          description: How do you trigger this bug? Please walk us through it step by step.
+          value: |
+              1.
+              2.
+              3.
+      validations:
+          required: true
+    - type: textarea
+      id: additional-context
+      attributes:
+          label: Additional context
+          description: Add any other context about the problem here, such as screenshots or related issues.
+    - type: input
+      id: a4d-version
+      attributes:
+          label: A4D Version
+          description: What version of Agentforce for Developers are you using? (You can find this at the bottom of the Settings view)
+          placeholder: "e.g., 1.2.3"
+      validations:
+          required: true
+    - type: input
+      id: sf-extension-version
+      attributes:
+          label: Salesforce VSCode Extension Version
+          description: What version of the Salesforce VSCode Extension are you using?
+          placeholder: "e.g., 1.2.3"
+      validations:
+          required: true
+    - type: input
+      id: vscode-version
+      attributes:
+          label: VSCode Version
+          description: What version of VSCode are you using?
+          placeholder: "e.g., 1.2.3"
+      validations:
+          required: true
+    - type: input
+      id: operating-system
+      attributes:
+          label: Operating System
+          description: What operating system are you using?
+          placeholder: "e.g., Windows 11, macOS Sonoma, Ubuntu 22.04"
+      validations:
+          required: true
+    - type: textarea
+      id: system-info
+      attributes:
+          label: System Info
+          description: What system information is relevant to the issue?
+          placeholder: "e.g., CPU: Intel Core i7-11700K, GPU: NVIDIA GeForce RTX 3070, RAM: 32GB DDR4"
+      validations:
+          required: true
