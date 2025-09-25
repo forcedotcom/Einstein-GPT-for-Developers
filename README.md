@@ -4,7 +4,7 @@
 
 </div>
 
-Agentforce for Developers is an AI-powered developer tool that’s available as an easy-to-install Visual Studio Code extension.  Built using `SFR model`, the secure, custom AI models from Salesforce, the extension doesn’t use customer data for training. 
+Agentforce for Developers is an AI-powered developer tool available as an easy-to-install Visual Studio Code extension. It’s built on Salesforce’s secure, custom `SFR model` and enhanced with premium third-party models. Together, these provide intelligent coding support while ensuring that customer data is never used for training. 
 
 Head over to the [Agentforce for Developers Documentation](https://developer.salesforce.com/tools/vscode/en/einstein/einstein-overview) to learn more.
 
