@@ -1,10 +1,10 @@
 <div align=center>
 
-# <img src="https://github.com/forcedotcom/Einstein-GPT-for-Developers/blob/main/images/einstein-thumb.jpeg" width="50"> Agentforce for Developers
+# Agentforce for Developers
 
 </div>
 
-Agentforce for Developers is an AI-powered developer tool that’s available as an easy-to-install Visual Studio Code extension which is a part of the [Salesforce Extension Pack (Expanded)](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-expanded).  Built using `CodeGen` and `xGen-Code`, the secure, custom AI models from Salesforce, the extension doesn’t use customer data for training. 
+Agentforce for Developers is an AI-powered developer tool available as an easy-to-install Visual Studio Code extension. It’s built on Salesforce’s secure, custom `SFR model` and enhanced with premium third-party models. Together, these provide intelligent coding support while ensuring that customer data is never used for training. 
 
 Head over to the [Agentforce for Developers Documentation](https://developer.salesforce.com/tools/vscode/en/einstein/einstein-overview) to learn more.
 
@@ -12,7 +12,7 @@ Head over to the [Agentforce for Developers Documentation](https://developer.sal
 
 ## Get Started
 
-Agentforce for Developers is available in the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-einstein-gpt) and the [Open VSX Registry](https://open-vsx.org/extension/salesforce/salesforcedx-einstein-gpt) and as a part of the [Salesforce Extension Pack (Expanded)](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-expanded) .
+Agentforce for Developers is available in the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-einstein-gpt) and the [Open VSX Registry](https://open-vsx.org/extension/salesforce/salesforcedx-einstein-gpt) and as a part of the [Salesforce Extension Pack](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode).
 
 Go to [Agentforce for Developers Set Up Documentation](https://developer.salesforce.com/tools/vscode/en/einstein/einstein-setup) for setup instructions.
 
@@ -24,10 +24,10 @@ Agentforce for Developers is enabled by default. You can easily disable or unins
 
 Use Agentforce for Developers, an AI-powered developer tool, to enhance developer productivity.
 
-* **Chat with Dev Assistant to ask for help with your programming tasks**
+* **Use Dev Agent's powerful agentic capabilities, powered by MCPs, to accomplish your programming tasks**
 
 <div align=center>
-<img src="https://github.com/forcedotcom/Einstein-GPT-for-Developers/blob/main/images/einstein-mtc.gif" width="750">
+<img src="https://github.com/forcedotcom/Einstein-GPT-for-Developers/blob/main/images/devagent.gif" width="750">
 </div>
 <p>&nbsp;</p>
 
@@ -38,17 +38,6 @@ Use Agentforce for Developers, an AI-powered developer tool, to enhance develope
 </div>
 <p>&nbsp;</p>
   
-* **Generate Apex and LWC unit tests for your code to help improve your code coverage**
-
-<div align=center>
-<img src="https://github.com/forcedotcom/Einstein-GPT-for-Developers/blob/main/images/apex-tcg.gif" width="750">
-</div>
-
-<div align=center>
-<img src="https://github.com/forcedotcom/Einstein-GPT-for-Developers/blob/main/images/lwc-tcg.gif" width="750">
-</div>
-
-* **Refactor your Lightning web component for improved accessibility and help with ToDo completions**
 
 ## Feedback and Discussions
 This repo will be the primary means of direct communication between our users and the team behind Agentforce for Developers! We’ll be checking both the [Issues](https://github.com/forcedotcom/Einstein-GPT-for-Developers/issues) and [Discussions](https://github.com/forcedotcom/Einstein-GPT-for-Developers/discussions) tabs here for questions, feedback requests & more. 
