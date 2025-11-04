@@ -73,14 +73,6 @@ The updated wiki page includes:
 
 ## Git Repository Information
 
-### Wiki Repository
-
-The wiki changes have been committed to:
-
-- **Repository**: `forcedotcom/Einstein-GPT-for-Developers.wiki`
-- **Branch**: `update-safe-commands-documentation`
-- **Commit**: Includes updated wiki page with all new features
-
 ### Implementation Repository
 
 The feature implementation is in:
@@ -137,10 +129,11 @@ npm run build && npm test
 
 ## Next Steps
 
-1. **Review this PR**: Team reviews the wiki update documentation
-2. **Merge Wiki Branch**: After approval, merge `update-safe-commands-documentation` to master in the wiki repository
-3. **Update Official Docs**: Work with Salesforce documentation team to update the official page with similar comprehensive content
-4. **Announce Changes**: Consider announcing the enhanced capabilities to users
+1. **Review this PR**: Team reviews the recommended wiki update content
+2. **Update Wiki Page**: Manually apply the recommended content from `docs/Agentforce-Vibes-safe-commands-RECOMMENDED.md` to the wiki
+3. **Close this PR**: Close the PR (no merge needed - this is documentation only)
+4. **Update Official Docs**: Work with Salesforce documentation team to update the official page with similar comprehensive content
+5. **Announce Changes**: Consider announcing the enhanced capabilities to users
 
 ## Questions or Feedback
 

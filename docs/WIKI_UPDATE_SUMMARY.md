@@ -14,11 +14,6 @@ The [Agentforce Vibes safe commands](https://github.com/forcedotcom/Einstein-GPT
 
 ## Technical Details
 
-### Branch Information
-- **Wiki Repository**: `forcedotcom/Einstein-GPT-for-Developers.wiki`
-- **Branch**: `update-safe-commands-documentation`
-- **Status**: Ready for merge
-
 ### What Users Will See
 
 **Before**: Simple explanation of exact string matching only  
@@ -34,12 +29,14 @@ The [Agentforce Vibes safe commands](https://github.com/forcedotcom/Einstein-GPT
 The complete documentation explaining this update can be found in:
 - `docs/Safe Commands Wiki Update.md` (this PR)
 
-The wiki changes have been pushed to branch `update-safe-commands-documentation` in the wiki repository.
+The recommended wiki content to apply can be found in:
+- `docs/Agentforce-Vibes-safe-commands-RECOMMENDED.md` (this PR)
 
 ## Next Steps
 
 1. ✅ Create documentation PR (this PR)
-2. ⏳ Review and approve this PR
-3. ⏳ Merge wiki branch to master
-4. ⏳ Update official Salesforce documentation with similar comprehensive content
+2. ⏳ Review this PR
+3. ⏳ Manually update the wiki page with recommended content
+4. ⏳ Close this PR
+5. ⏳ Update official Salesforce documentation with new content
 
