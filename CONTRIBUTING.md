@@ -19,7 +19,7 @@ Use [GitHub Issues page](https://github.com/forcedotcom/Einstein-GPT-for-Develop
 -  Issues that have already been identified as a bug (note: able to reproduce) will be labelled `bug`.
 
 ### New Features
--  If you'd like to add new functionality to this project, describe the problem you want to solve in a [new Issue](https://github.com/{project_slug}/issues/new).
+-  If you'd like to add new functionality to this project, describe the problem you want to solve in a [New issue](https://github.com/forcedotcom/Einstein-GPT-for-Developers/issues/new).
 -  Issues that have been identified as a feature request will be labelled `enhancement`.
 
 ### Documentation
