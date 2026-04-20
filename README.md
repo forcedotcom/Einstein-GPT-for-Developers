@@ -4,7 +4,7 @@
 
 </div>
 
-Agentforce Vibes extension is an AI-powered developer tool that's built on Salesforce’s secure, custom `SFR model` and enhanced with premium third-party models. Together, these provide intelligent coding support while ensuring that customer data is never used for training. 
+Agentforce Vibes extension is an AI-powered developer tool that's enhanced with premium third-party models. The extension provides intelligent coding support while ensuring that customer data is never used for training. 
 
 Head over to the [Agentforce Vibes Extension Documentation](https://developer.salesforce.com/tools/vscode/en/einstein/einstein-overview) to learn more.
 
