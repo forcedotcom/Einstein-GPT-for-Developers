@@ -4,7 +4,7 @@
 
 </div>
 
-Agentforce Vibes extension is an AI-powered developer tool available in the Visual Studio Code marketplace. It’s built on Salesforce’s secure, custom `SFR model` and enhanced with premium third-party models. Together, these provide intelligent coding support while ensuring that customer data is never used for training. 
+Agentforce Vibes extension is an AI-powered developer tool that's enhanced with premium third-party models. The extension provides intelligent coding support while ensuring that customer data is never used for training. 
 
 Head over to the [Agentforce Vibes Extension Documentation](https://developer.salesforce.com/tools/vscode/en/einstein/einstein-overview) to learn more.
 
@@ -16,15 +16,19 @@ Agentforce Vibes extension is available in the [VS Code Marketplace](https://mar
 
 Go to [Agentforce Vibes Extension Set Up Documentation](https://developer.salesforce.com/tools/vscode/en/einstein/einstein-setup) for setup instructions.
 
-## Disable Agentforce Vibes Extension
-Agentforce Vibes extension  is enabled by default. You can easily disable or uninstall the Agentforce Vibes extension at any time. Bring up the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of VS Code or the **View: Show Extensions** command (⇧⌘X). Search for "Agentforce Vibes" in installed extensions list, and then select **Disable** or **Uninstall**.
-
+Agentforce Vibes extension is enabled by default. You can easily disable or uninstall the Agentforce Vibes extension at any time. Bring up the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of VS Code or the **View: Show Extensions** command (⇧⌘X). Search for "Agentforce Vibes" in installed extensions list, and then select **Disable** or **Uninstall**.
 
 ## What can Agentforce Vibes Do?
 
-Use Agentforce Vibes extension, an AI-powered developer tool, to enhance developer productivity.
+With Agentforce Vibes, you can build and deploy UIs with a prompt. Check out these sample prompts.
 
-* **Use Agentforce's powerful agentic capabilities, powered by MCPs, to accomplish your programming tasks**
+- Build a todo app with an Apex controller and LWC component. Use the Todo__c object.
+- Create an LWC component that displays account names, revenue, and associated contact names.
+- Add a property assistant agent to the dashboard to track applications and maintenance requests.
+
+Use Agentforce Vibes extension to enhance developer productivity.
+
+* **Use Agentforce's powerful agentic capabilities, powered by skills and MCP tools, to accomplish your programming tasks**
 
 <div align=center>
 <img src="https://github.com/forcedotcom/Einstein-GPT-for-Developers/blob/main/images/af.png" width="750">
@@ -40,7 +44,7 @@ Use Agentforce Vibes extension, an AI-powered developer tool, to enhance develop
   
 
 ## Feedback and Discussions
-This repo will be the primary means of direct communication between our users and the team behind Agentforce Vibes! We’ll be checking both the [Issues](https://github.com/forcedotcom/Einstein-GPT-for-Developers/issues) and [Discussions](https://github.com/forcedotcom/Einstein-GPT-for-Developers/discussions) tabs here for questions, feedback requests & more. 
+This repo is the primary means of direct communication between our users and the team behind Agentforce Vibes! We check both the [Issues](https://github.com/forcedotcom/Einstein-GPT-for-Developers/issues) and [Discussions](https://github.com/forcedotcom/Einstein-GPT-for-Developers/discussions) tabs here for questions, feedback requests & more. 
 
 Oh! And you can also provide general feedback, request product enhancements, start discussions with other Agentforce Vibes users or the product team, and share best practices, using the [Agentforce Vibes Trailblazer Group](https://trailhead.salesforce.com/trailblazer-community/groups/0F94V000000oRJs?tab=discussion&sort=LAST_MODIFIED_DATE_DESC).
 
