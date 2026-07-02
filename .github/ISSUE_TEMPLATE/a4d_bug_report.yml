@@ -31,10 +31,18 @@ body:
           label: Additional context
           description: Add any other context about the problem here, such as screenshots or related issues.
     - type: input
-      id: sf-telemetry-id
+      id: extension-version
       attributes:
-          label: Salesforce Telemetry ID
-          description: What is your Salesforce Telemetry ID? Acquire it by running `sf telemetry` in your terminal.
-          placeholder: "Salesforce CLI ID is 6a3b46564c9e3fc87ae614f61776a467be868a2e"
+          label: Agentforce Vibes version
+          description: From the Extensions view, or the top of "Copy Diagnostics". 4.x is a full replatform, so reports against older versions may already be fixed.
+          placeholder: "4.11.0"
       validations:
           required: true
+    - type: textarea
+      id: diagnostics
+      attributes:
+          label: Diagnostics
+          description: "Run `Cmd/Ctrl+Shift+P` -> `Agentforce: Copy Diagnostics` and paste the output. It is PII-scrubbed and includes the extension version, editor/OS, and a digest of recent failures. Please review before sharing."
+          render: text
+      validations:
+          required: false
